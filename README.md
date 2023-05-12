@@ -1,6 +1,7 @@
 ### Hi there 👋
-I have developed full-stack projects with MERN tech stack. I work mainly with JavaScript. I have worked with ReactJS, HTML/CSS for Frontend development. I work with NodeJS, ExpressJS for backend development, MongoDB for data base management and Git/GitHub for version control and cloud management.
-
+<!-- I have developed full-stack projects with MERN tech stack. I work mainly with JavaScript. I have worked with ReactJS, HTML/CSS for Frontend development. I work with NodeJS, ExpressJS for backend development, MongoDB for data base management and Git/GitHub for version control and cloud management.
+ -->
+ 
 
 Here are some ideas to get you started:
 
